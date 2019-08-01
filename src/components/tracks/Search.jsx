@@ -39,7 +39,7 @@ export default class Search extends Component {
             const { dispatch } = value;
             return (
               <div className="card card-body mb-4 p-4">
-                <h1 className="dsiplay-4 text-center">
+                <h1 className="dsiplay-4 text-center title">
                   <i className="fas fa-music" /> Search for A song
                 </h1>
                 <p className="lead text-center">
