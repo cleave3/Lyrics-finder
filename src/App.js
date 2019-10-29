@@ -4,6 +4,7 @@ import Navbar from "./components/layout/Navbar";
 import Index from "./components/layout/Index";
 import Lyrics from "./components/tracks/Lyrics";
 import { Provider } from "./Context";
+import './main.css'
 
 class App extends Component {
   render() {
