@@ -6,7 +6,6 @@ import Lyrics from "./components/tracks/Lyrics";
 import { Provider } from "./Context";
 
 class App extends Component {
-  state = {};
   render() {
     return (
       <Provider>

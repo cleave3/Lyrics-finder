@@ -1,14 +1,9 @@
-body {
-	background: url(./img/bg11.jpg);
-	background-size: cover;
-}
-
 .btn {
 	background-color: #372430;
 	border: none;
 }
 
-.title{
+.title {
 	color: #c52f42
 }
 
@@ -16,6 +11,6 @@ body {
 	background-color: #372430 !important;
 }
 
-.fas{
+.fas {
 	margin-right: 10px;
 }
